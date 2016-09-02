@@ -1,0 +1,23 @@
+{
+    "name": "digitize/yii2-widget-manager",
+    "description": "Widget Manager yii2 extension like in WordPress widget management in backend, Specially designed yii2 Advanced App",
+    "keywords": ["Yii2 Widget Manager"," Widget Manager"],
+    "homepage": "https://github.com/kartik-v/yii2-editable",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vijay Padhariya",
+            "email": "vijay@digitize-info.com",
+            "homepage": "http://www.digitize-info.com/"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "digitize\\widgetmanager\\": ""
+        }
+    }
+}
