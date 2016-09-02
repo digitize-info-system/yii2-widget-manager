@@ -1,6 +1,6 @@
 Yii2 Widget Manager
 ===================
-Widget Manager yii2 extension to manage Custom widgets by Digitize Info System
+Widget Manager yii2 extension like in WordPress widget management in backend, Specially designed yii2 Advanced App (under development)
 
 Installation
 ------------
